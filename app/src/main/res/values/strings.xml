@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationDistanceDemo</string>
+
+    <string name="google_api">AIzaSyByqyQcSVSSJluXexEoObRGSWByF3ChQIs</string>
+</resources>

@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "813073940178",
+    "project_id": "earnest-acre-119219"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813073940178:android:5c1b187735ee4b4b",
+        "android_client_info": {
+          "package_name": "com.cds.googlemapdrawroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813073940178-d9ttlcmu5ugok07gmgvojc3nkp4sacqr.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "813073940178-hthqr1qn4icsb0b216pue58fhdh47jm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cds.googlemapdrawroute",
+            "certificate_hash": "9ab8f5075019e4a864ba9953db3cf756b8b62e29"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhaPBGiWm9O5NsmAaEg3LjQHD58Mn6oyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813073940178:android:96de26efa12dccfd",
+        "android_client_info": {
+          "package_name": "com.cds.locationdistancedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813073940178-vl127u1filci67141cq7a9fita1oqe6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cds.locationdistancedemo",
+            "certificate_hash": "9ab8f5075019e4a864ba9953db3cf756b8b62e29"
+          }
+        },
+        {
+          "client_id": "813073940178-d9ttlcmu5ugok07gmgvojc3nkp4sacqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhaPBGiWm9O5NsmAaEg3LjQHD58Mn6oyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
